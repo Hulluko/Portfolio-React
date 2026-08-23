@@ -119,8 +119,8 @@ function App() {
           <li>
             <strong>Ohjelmointi</strong>
             <p>
-              Olen ohjelmoinnissa vielä opiskelijatasolla, mutta HTML ja CSS ovat erityisen mieluisia visuaalisuutensa
-              vuoksi. C#, SQL ja JavaScript ovat myös tuttuja kieliä. PHP ja Python ovat vielä uudempi alue,
+              Olen ohjelmoinnissa vielä opiskelijatasolla, mutta etenkin HTML ja CSS ovat erityisen mieluisia visuaalisuutensa
+              vuoksi. Tykkään erityisesti web-sivujen suunnittelusta ja toteutuksesta. C#, SQL ja JavaScript ovat myös tuttuja kieliä. PHP ja Python ovat vielä uudempi alue,
               mutta opiskelen niitä innokkaasti. Uusimpana asiana on react ja react nativen oppiminen ja käyttö.
             </p>
           </li>
