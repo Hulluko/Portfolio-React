@@ -31,7 +31,7 @@ function Skills() {
     {
       id: 4,
       title: 'Ohjelmointi',
-      description: 'Olen ohjelmoinnissa vielä opiskelijatasolla, mutta HTML ja CSS ovat erityisen mieluisia visuaalisuutensa vuoksi. C#, SQL ja JavaScript ovat myös tuttuja kieliä. PHP ja Python ovat vielä uudempi alue, mutta opiskelen niitä innokkaasti. Uusimpana asiana on react ja react nativen oppiminen ja käyttö.'
+      description: 'Olen ohjelmoinnissa vielä opiskelijatasolla, mutta HTML ja CSS ovat erityisen mieluisia visuaalisuutensa vuoksi. C#, SQL ja PHP ovat jokseenkin tuttuja asioita. JavaScript, React ja React Native ovat minulle uusin asia, mutta ne vaikuttavat mielenkiintoisilta. Python on minulle vielä tällä hetkellä melko vieras kieli.'
     },
     {
       id: 5,
