@@ -20,6 +20,13 @@ function Projects() {
         >
           Ensimmäinen nettisivuni
         </a>
+        <a 
+          href="https://kempeleenkierratyskeskus.com/" 
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+          Mukana sivun kehityksessä
+        </a>
       </div>
     </>
   );
